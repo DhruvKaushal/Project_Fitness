@@ -1,0 +1,41 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    }
+.ite1{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    padding: 10px
+}
+
+.ite2{
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    color: white
+}
+
+.centr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: stretch;
+    height: 100%
+}
+
+.itemz1{
+    flex-grow: 3;
+    
+}
+
+.itemz2{
+    flex-flow: 4;
+    background-color: whitesmoke;
+    width: 75%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}

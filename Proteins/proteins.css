@@ -1,0 +1,26 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: stretch;
+    height: 100%
+}
+
+.flex-container2 {
+    display: flex
+}
+
+.itemz1{
+    flex-grow: 3;
+    
+}
+
+.itemz2{
+    flex-flow: 4;
+    background-color: whitesmoke;
+    width: 70%;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}

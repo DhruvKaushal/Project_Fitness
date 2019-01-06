@@ -1,0 +1,27 @@
+html { 
+    background: url(home_image.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+.centered {
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+  }
+
+#jo{
+    color: white;
+    text-align: center
+}
+
+#butto{
+    padding-left: 20px;
+    padding-right: 20px
+}

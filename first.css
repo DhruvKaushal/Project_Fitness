@@ -1,0 +1,88 @@
+html{
+    background-color: black
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    }
+#goal{
+    text-align: center;
+    background-color: black;
+    font-size: 40px;
+    color: white;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#type1{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-image: url('build_muscle.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    align-items: center;
+       
+}
+
+#type2{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-image: url('lose.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    align-items: center;
+    margin: 5% auto black;    
+}
+
+#type3{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-image: url('strength.jpeg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    align-items: center;
+       
+}
+
+#type4{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-image: url('getfit.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    align-items: center;
+       
+}
+
+#type5{
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-image: url('perform.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    align-items: center;
+           
+}
+
+.typo{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
